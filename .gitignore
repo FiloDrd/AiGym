@@ -1,0 +1,28 @@
+# Flutter/Dart specific
+build/
+.melos/
+.dart_tool/
+.packages
+.pub-cache/
+.pub/
+.flutter-plugins
+.flutter-plugins-dependencies
+.idea/
+
+# VS Code
+.vscode/
+
+# iOS & Android specific
+android/.gradle/
+android/app/debug.keystore
+ios/Pods/
+ios/.symlinks/
+ios/Flutter/Generated.xcconfig
+ios/Flutter/App.framework
+ios/Flutter/Flutter.podspec
+
+# Web specific
+web/.dart_tool/
+
+# Misc
+*.log
