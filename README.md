@@ -1,6 +1,6 @@
 # AiGym
 
-A new Flutter project.
+Gym application wrote in flutter for scheduling and organizing your gym sessions It's actually under develop and the project is paused. I'm currently working on the Murder Mistery App
 
 ## Getting Started
 
